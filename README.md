@@ -3,7 +3,7 @@
 
 - 🏫 I'm in training at [O'clock](https://oclock.io/)
 
-- ⛏️ My projet for my professional title [TacoLover](https://github.com/AndyLeMarechal/TacoLover)
+- ⛏️ My various current projects [Repositories](https://github.com/AndyLeMarechal?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
